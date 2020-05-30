@@ -5,5 +5,9 @@ package com.tw.utils;
  */
 public class ManipulateNumbers {
 
+    public double convertStringToDouble(String string){
+
+        return 1.0;
+    }
 
 }
